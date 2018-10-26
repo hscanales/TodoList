@@ -23,7 +23,7 @@
                 element.remove();
              });
              element.appendChild(deleteButton);
-             element.appendChild(document.createTextNode(task));
+             
              /*element.addEventListener("click", () => {
                 let parent = element.parentNode;
                 if(parent){
